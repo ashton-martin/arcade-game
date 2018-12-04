@@ -1,10 +1,10 @@
-frontend-nanodegree-arcade-game
-===============================
+# [Udacity Classic Arcade Game Clone](https://github.com/udacity/frontend-nanodegree-arcade-game)
 
-Steps to play:
+In this game you have a Player and Enemies (Bugs). The goal of the player is to reach the water, without colliding into any one of the enemies. The player can move left, right, up and down. The enemies move in varying speeds on the paved block portion of the scene. Once a the player collides with an enemy, the game is reset and the player moves back to the start square. Once the player reaches the water the game is won.
 
-Load the game by opening the index.html file.
+## Demo
 
-Play the game by using the arrow keys to navigate the board. To win the game you need to reach the last tile without colliding with any of the Enemies. 
+[![demo]
 
-Good luck!
+> [Check it live](http://ashton-martin.github.io/arcade-game/).
+
